@@ -1,0 +1,7 @@
+# Archivos de Simulink
+# Ficheros
+*.slxc
+*.slx.autosave
+# Carpetas
+slprj
+
