@@ -1,7 +1,7 @@
 # Simscape_Robot_LEGO
 
 <table>
-  <tr>
+  <tr width="50%">
     <td>
       <img src="RobotModel_complete.png" alt="Complete Robot Model" height="300">
     </td>
@@ -9,7 +9,7 @@
       <img src="RobotModel_simulink.png" alt="Simulink Robot Model" height="300">
     </td>
   </tr>
-  <tr>
+  <tr width="50%">
     <td style="text-align: center;">Complete piece by piece custom LEGO robot model</td>
     <td style="text-align: center;">LEGO robot model, grouped by main parts for simulation in Simulink and Simscape Multibody</td>
   </tr>
