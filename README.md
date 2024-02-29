@@ -3,10 +3,10 @@
 <table>
   <tr>
     <td>
-      <img src="RobotModel_complete.png" alt="Complete Robot Model" width="300">
+      <img src="RobotModel_complete.png" alt="Complete Robot Model" height="300">
     </td>
     <td>
-      <img src="RobotModel_simulink.png" alt="Simulink Robot Model" width="300">
+      <img src="RobotModel_simulink.png" alt="Simulink Robot Model" height="300">
     </td>
   </tr>
   <tr>
