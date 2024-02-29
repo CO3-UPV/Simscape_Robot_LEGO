@@ -1,6 +1,6 @@
 # Simscape_Robot_LEGO
 
-<div style="display: flex;">
+<div style="display: flex; flex-direction: row;">
   <img src="RobotModel_complete.png" alt="Complete Robot Model" style="flex: 1; width: 50%;">
   <img src="RobotModel_simulink.png" alt="Simulink Robot Model" style="flex: 1; width: 50%;">
 </div>
